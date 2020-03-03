@@ -1,0 +1,12 @@
+[
+    {
+        "name": "limpar a varanda",
+        "description": "limpar com cuidado",
+        "status": "BACKLOG"
+    },
+    {
+        "name": "limpar quarto",
+        "description": "direito",
+        "status": "BACKLOG"
+    }
+]
